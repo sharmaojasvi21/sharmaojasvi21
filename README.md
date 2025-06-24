@@ -1,25 +1,51 @@
-# Hey, I'm Ojasvi! 👋
+# 👋 Hey, I'm Ojasvi Sharma!
 
-🌱 First-year B.Tech student passionate about tech, AI & design  
-🚀 Currently building projects in Python, Data Science & Web Dev  
-📚 Learning every day — trying to glow up my GitHub  
-💡 Fun fact: I turn late-night boredom into mini projects 😎
+🎓 B.Tech Student | Aspiring Data Scientist & Python Dev  
+🚀 Currently doing an AI/ML Internship & building my GitHub profile  
+🌱 Learning: Machine Learning, Web Dev, and Automation
 
-## 🔧 Tech I’m Working With:
-- Python, Pandas, NumPy
+---
+
+## 🔧 Tech Stack:
+- Python, Pandas, NumPy, Scikit-learn
 - HTML, CSS, JavaScript
-- Git & GitHub
-- SQL basics, Excel
-- Jupyter, VS Code
+- Git & GitHub, Jupyter Notebook
+- MySQL Basics, VS Code
 
-## 📌 My Goals:
-- 📊 Build 5+ solid projects by the end of semester
-- 🧠 Start learning Machine Learning & AI
-- 🌍 Contribute to open-source projects
+---
 
-## 🔗 Let’s Connect!
-- LinkedIn: [www.linkedin.com/in/ojasvi-sharma-452880253]
-- Portfolio: [Coming soon]
+## 🔥 My Projects:
+- [Titanic Preprocessing](https://github.com/ojasvisharma/titanic-preprocessing)  
+  Cleaned Titanic dataset and handled missing values & encoding
+
+- [Titanic EDA](https://github.com/ojasvisharma/titanic-eda)  
+  Visualized patterns in the Titanic dataset using boxplots & heatmaps
+
+- [File Organizer Script](https://github.com/ojasvisharma/file-organizer)  
+  Python script to auto-organize files by type into folders
+
+---
+
+## 📈 Current Goals:
+- Build 5 good-quality projects
+- Post regularly on LinkedIn
+- Contribute to open-source (Hacktoberfest!)
+
+---
+
+## 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/ojasvisharma)
+- [GitHub](https://github.com/ojasvisharma)
+- Portfolio: Coming soon!
+
+---
+
+## 📊 GitHub Stats
+
+![Ojasvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojasvisharma&show_icons=true&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ojasvisharma&theme=radical)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvisharma&layout=compact&theme=radical)
+
 
 
 <!--
