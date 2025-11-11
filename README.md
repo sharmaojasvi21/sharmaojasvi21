@@ -1,4 +1,4 @@
-<!-- Ojasvi Sharma - Gradient Glow GitHub Profile README -->
+<!-- Ojasvi Sharma - Bold & Colourful Hacker README -->
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #9D50BB, #6E48AA, #00B4DB); -webkit-background-clip: text; color: transparent;">
@@ -6,11 +6,12 @@
   </span>
 </h1>
 
-<h3 align="center">
-  <span id="typewriter" style="background: linear-gradient(90deg, #00B4DB, #6E48AA, #9D50BB); -webkit-background-clip: text; color: transparent;">
-    Half human, half algorithm.
+<!-- Sliding Gradient Marquee -->
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  <span style="background: linear-gradient(90deg, #9D50BB, #6E48AA, #00B4DB); -webkit-background-clip: text; color: transparent;">
+    Half human, half algorithm. ⚡ AI & ML | Web | Cloud | Design
   </span>
-</h3>
+</marquee>
 
 ---
 
@@ -64,6 +65,13 @@
 
 ---
 
+## 🏆 <span style="background: linear-gradient(90deg, #9D50BB, #00B4DB); -webkit-background-clip: text; color: transparent;">Trophies & Achievements</span>
+<p align="center">
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ojasvi-sharma&theme=radical&row=1&column=6)
+</p>
+
+---
+
 ## 📊 <span style="background: linear-gradient(90deg, #00B4DB, #6E48AA); -webkit-background-clip: text; color: transparent;">GitHub Stats</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ojasvi-sharma&show_icons=true&theme=tokyonight" alt="Ojasvi's GitHub stats" />
@@ -83,8 +91,9 @@
 
 ## 🐍 <span style="background: linear-gradient(90deg, #00B4DB, #6E48AA); -webkit-background-clip: text; color: transparent;">Contribution Graph</span>
 <p align="center">
-  <img src="https://github.com/ojasvi-sharma/ojasvi-sharma/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 <!--
 **sharmaojasvi21/sharmaojasvi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
