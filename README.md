@@ -1,27 +1,38 @@
-# Hey, I'm Ojasvi! 👋
+# Ojasvi Sharma  
+**Half human, half algorithm.**  
 
-🌱 First-year B.Tech student passionate about tech, AI & design  
-🚀 Currently building projects in Python, Data Science & Web Dev  
-📚 Learning every day — trying to glow up my GitHub  
-💡 Fun fact: I turn late-night boredom into mini projects 😎
+---
 
-## 🔧 Tech I’m Working With:
-- Python, Pandas, NumPy
-- HTML, CSS, JavaScript
-- Git & GitHub
-- SQL basics, Excel
-- Jupyter, VS Code
+## 🎯 About Me  
+I’m a B.Tech student diving deep into AI & ML, turning chaos into code and logic into impact.  
+Talkative, curious, bold — building projects, learning fast, and never settling for “just okay.”  
 
-## 📌 My Goals:
-- 📊 Build 5+ solid projects by the end of semester
-- 🧠 Start learning Machine Learning & AI
-- 🌍 Contribute to open-source projects
+---
 
-## 🔗 Let’s Connect!
-- LinkedIn: [www.linkedin.com/in/ojasvi-sharma-452880253]
-- Portfolio: [Coming soon]
+## 💻 Tech Arsenal  
+### Languages & Core  
+`Python` · `C++` · `SQL` · `HTML` · `CSS` · `JavaScript`  
+### AI / ML & Data  
+`scikit-learn` · `pandas` · `NumPy` · `TensorFlow` · `OpenCV` · `Power BI` · `Tableau` · `Matplotlib`  
+### Web & Frameworks  
+`Django` · `Flask` · `Node.js` · `React`  
+### Cloud & DevOps  
+`Git` · `GitHub` · `Docker` · `Linux` · `Azure` · `Google Cloud` · `PowerShell`  
+### Design & Tools  
+`VS Code` · `Google Colab` · `Canva` · `Adobe`  
 
+---
 
+## 📊 GitHub Stats & Activity  
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ojasvi-sharma&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojasvi-sharma&theme=radical)  
+[![Snake animation](https://github.com/ojasvi-sharma/ojasvi-sharma/blob/output/github-contribution-grid-snake.svg)](https://github.com/ojasvi-sharma)  
+
+---
+
+## 📫 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojasvi-sharma-452880253/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 
 
 <!--
