@@ -1,36 +1,32 @@
-<!-- Ojasvi Sharma - Bold & Colourful Hacker README -->
-
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #9D50BB, #6E48AA, #00B4DB); -webkit-background-clip: text; color: transparent;">
+  <span style="background: linear-gradient(90deg, #9D50BB, #00B4DB); -webkit-background-clip: text; color: transparent;">
     Hi 👋, I'm Ojasvi Sharma
   </span>
 </h1>
 
-<!-- Sliding Gradient Marquee -->
-<marquee behavior="scroll" direction="left" scrollamount="10">
-  <span style="background: linear-gradient(90deg, #9D50BB, #6E48AA, #00B4DB); -webkit-background-clip: text; color: transparent;">
-    Half human, half algorithm. ⚡ AI & ML | Web | Cloud | Design
-  </span>
-</marquee>
+<p align="center">
+  AI & ML • Web • Cloud • Design
+</p>
 
 ---
 
-## 💫 <span style="background: linear-gradient(90deg, #9D50BB, #00B4DB); -webkit-background-clip: text; color: transparent;">About Me</span>
-🔹 AI & ML enthusiast exploring how intelligence meets creativity  
-🔹 Passionate about data, design, and clean code  
-🔹 Constantly learning, building, and evolving  
+## 💫 About Me
+- AI & ML enthusiast  
+- Love working with data, design, and clean code  
+- Constantly learning and building  
+- Currently exploring DevOps & Cloud
 
 ---
 
-## 💻 <span style="background: linear-gradient(90deg, #6E48AA, #00B4DB); -webkit-background-clip: text; color: transparent;">Tech Arsenal</span>
+## 🛠 Tech Stack
 
 ### 🚀 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧩 AI / ML & Data  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -39,8 +35,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web & Frameworks  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -55,57 +49,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### 🎨 Design & Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
 
-## 🏆 <span style="background: linear-gradient(90deg, #9D50BB, #00B4DB); -webkit-background-clip: text; color: transparent;">Trophies & Achievements</span>
 <p align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ojasvi-sharma&theme=radical&row=1&column=6)
+  Thanks for stopping by — let’s build something cool.
 </p>
-
----
-
-## 📊 <span style="background: linear-gradient(90deg, #00B4DB, #6E48AA); -webkit-background-clip: text; color: transparent;">GitHub Stats</span>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojasvi-sharma&show_icons=true&theme=tokyonight" alt="Ojasvi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojasvi-sharma&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-## 🤝 <span style="background: linear-gradient(90deg, #6E48AA, #00B4DB); -webkit-background-clip: text; color: transparent;">Connect With Me</span>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ojasvi-sharma-452880253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🐍 <span style="background: linear-gradient(90deg, #00B4DB, #6E48AA); -webkit-background-clip: text; color: transparent;">Contribution Graph</span>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
-<!--
-**sharmaojasvi21/sharmaojasvi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
