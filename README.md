@@ -1,9 +1,6 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #9D50BB, #00B4DB); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm Ojasvi Sharma
-  </span>
+  Hi 👋, I'm Ojasvi Sharma
 </h1>
-
 <p align="center">
   AI & ML • Web • Cloud • Design
 </p>
@@ -11,10 +8,22 @@
 ---
 
 ## 💫 About Me
-- AI & ML enthusiast  
-- Love working with data, design, and clean code  
-- Constantly learning and building  
-- Currently exploring DevOps & Cloud
+
+- 🤖 STEM undergrad passionate about building real-world AI/ML solutions
+- 🔬 Currently exploring LLMs, computer vision & cloud-native deployments
+- 🌱 Always learning — recently dived into DevOps & cloud infrastructure
+- 💡 I like turning messy data into useful things
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [📄 AI Paper Explainer](https://github.com/sharmaojasvi21/ai-paper-explainer) | Upload any research paper PDF and ask questions — AI answers based on the document · [🌐 Live Demo](https://ai-paper-explainer-ez5fyknjenrc7ewehl47v8.streamlit.app/) | Streamlit, HuggingFace, PyPDF |
+| [🔬 Breast Cancer Classifier](https://github.com/sharmaojasvi21/breast-cancer-classifier) | Detects malignant vs benign tumours — ROC curve, AUC & threshold tuning | Scikit-learn, Pandas |
+| [🏠 House Price Predictor](https://github.com/sharmaojasvi21/house-price-predictor) | Predicts housing prices from crime rate, rooms & location metrics | Python, Seaborn |
+| [🚢 Titanic EDA](https://github.com/sharmaojasvi21/titanic-eda-task2) | Survival pattern analysis with visual insights | Pandas, Matplotlib |
 
 ---
 
@@ -53,5 +62,5 @@
 ---
 
 <p align="center">
-  Thanks for stopping by — let’s build something cool.
+  Thanks for stopping by — let's build something cool.
 </p>
